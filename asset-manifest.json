@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-ToDo/static/css/main.29f35a87.chunk.css",
+    "main.js": "/react-ToDo/static/js/main.e2d0bae7.chunk.js",
+    "main.js.map": "/react-ToDo/static/js/main.e2d0bae7.chunk.js.map",
+    "runtime-main.js": "/react-ToDo/static/js/runtime-main.6e57a8d8.js",
+    "runtime-main.js.map": "/react-ToDo/static/js/runtime-main.6e57a8d8.js.map",
+    "static/js/2.2a219740.chunk.js": "/react-ToDo/static/js/2.2a219740.chunk.js",
+    "static/js/2.2a219740.chunk.js.map": "/react-ToDo/static/js/2.2a219740.chunk.js.map",
+    "static/js/3.3f37758f.chunk.js": "/react-ToDo/static/js/3.3f37758f.chunk.js",
+    "static/js/3.3f37758f.chunk.js.map": "/react-ToDo/static/js/3.3f37758f.chunk.js.map",
+    "index.html": "/react-ToDo/index.html",
+    "static/css/main.29f35a87.chunk.css.map": "/react-ToDo/static/css/main.29f35a87.chunk.css.map",
+    "static/js/2.2a219740.chunk.js.LICENSE.txt": "/react-ToDo/static/js/2.2a219740.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-ToDo/static/media/4.abd4819e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e57a8d8.js",
+    "static/js/2.2a219740.chunk.js",
+    "static/css/main.29f35a87.chunk.css",
+    "static/js/main.e2d0bae7.chunk.js"
+  ]
+}
